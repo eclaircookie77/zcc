@@ -2,6 +2,7 @@
     "ticket": [
         {
             "id": 12345678,
+            "cid": "dbdksxkwmdrnjs",
             "name": "유안타증권",
             "address": "서울시 여의도"
         }
